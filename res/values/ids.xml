@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    	<item type="id" name="url"/>
+    	<item type="id" name="use_lru_cache"/>
+    	<item type="id" name="width"/>
+    	<item type="id" name="height"/>
+</resources>
